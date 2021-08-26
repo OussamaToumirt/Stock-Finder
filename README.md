@@ -33,9 +33,9 @@ Foap,
 
 
 
-Please install python before open.
+install python before open.
 
-Please install Requirement library  :
+install required library  :
 time,
 selenium,
 random,
